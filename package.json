@@ -1,0 +1,16 @@
+{
+  "name": "typescript-event-emitter",
+  "version": "1.0.0",
+  "description": "A type-safe event emitter project to showcase TypeScript skills.",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "tsc && node dist/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
